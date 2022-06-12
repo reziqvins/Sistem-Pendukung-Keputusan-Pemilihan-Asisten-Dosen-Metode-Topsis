@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Register</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Zen+Kaku+Gothic+New:wght@400;700&display=swap" rel="stylesheet"> 
+
+  <style>
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    body {
+      font-family: 'Zen Kaku Gothic New', sans-serif;
+      font-size: 16px;
+      background: #004A7C;
+      color: #132C33;
+      height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    a {
+      color: #005691;
+      text-decoration: none;
+    }
+    a:visited {
+      color: #004A7C;
+    } 
+
+    form {
+      background: #FAFAFA;
+      width: 35%;
+      padding: 1.5rem 1.5rem 2rem;
+      border-radius: 5px;
+    }
+
+    .header {
+      margin-bottom: 1rem;
+    }
+
+    .judul {
+      font-size: 2rem;
+      color: #004A7C;
+    }
+    .subtitle {
+      font-size: 1.1rem;
+    }
+
+    .kotak {
+      margin-bottom: 1rem;
+    }
+    .kotak-input {
+      margin-bottom: .5rem;
+    }
+
+    .label {
+      display: block;
+      margin-bottom: .5rem;
+    }
+    .input {
+      width: 100%;
+      display: block;
+      padding: 10px 15px;
+      border: 1px solid #ddd;
+      border-radius: 5px;
+    }
+    .input:focus {
+      outline: none;
+      border-color: #004A7C;
+    }
+    .tombol {
+      background: #005691;
+      color: #fafafa;
+      border: 0;
+      width: 100%;
+      padding: 10px 0;
+      margin-top: .5rem;
+      border-radius: 5px;
+      font-family: inherit;
+      font-weight: bold;
+      font-size: inherit;
+      cursor: pointer;
+    }
+    .tombol:hover {
+      background: #004A7C;
+    }
+
+  </style>
+</head>
+<body>
+
+  <form>
+    <div class="header">
+      <h1 class="judul">Register</h1>
+      <p class="subtitle">Isi data diri</p>
+    </div>
+
+    <div class="kotak">
+      <div class="kotak-input">
+        <label class="label">Email</label>
+        <input class="input" type="email" placeholder="Email">
+      </div>
+      <div class="kotak-input">
+        <label class="label">Username</label>
+        <input class="input" type="text" placeholder="Username">
+      </div>
+      <div class="kotak-input">
+        <label class="label">Password</label>
+        <input class="input" type="password" placeholder="Password">
+      </div>
+
+      <button class="tombol">Register</button>
+    </div>
+
+    <a href="login.html">Sudah punya akun? Masuk Disini</a>
+  </form>
+
+</body>
+</html>
