@@ -1,9 +1,7 @@
-# Sistem Pendukung Keputusan Pemilihan HP
+# Sistem Pendukung Keputusan Pemilihan asdos
 
-[![](https://gitlab.com/gitlab-org/gitlab-ee/badges/master/build.svg)](https://wahidari.github.io)
-[![](https://semaphoreci.com/api/v1/projects/2f1a5809-418b-4cc2-a1f4-819607579fe7/400484/shields_badge.svg)](https://wahidari.github.io)
-[![](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat&maxAge=86400)](https://wahidari.github.io)
-[![](https://img.shields.io/badge/Find%20Me-%40wahidari-009688.svg?style=social)](https://wahidari.github.io)
+[![](https://img.shields.io/badge/docs-latest-brightgreen.svg?style=flat&maxAge=86400)](https://www.instagram.com/reziq_vins/)
+[![](https://img.shields.io/badge/Find%20Me-%40ReziqVins-009688.svg?style=social)](https://www.instagram.com/reziq_vins/)
 
 ## Language
 
@@ -17,19 +15,11 @@
 
 - ### Web
     
-    ![](./ss/a.PNG)
-    
-    ![](./ss/b.PNG)
-    
-    ![](./ss/c.PNG)
-    
-    ![](./ss/d.PNG)
-    
-    ![](./ss/e.PNG)
-    
-    ![](./ss/f.PNG)
-    
-    ![](./ss/g.PNG)
+    ![](https://raw.githubusercontent.com/reziqvins/Sistem-Pendukung-Keputusan-Asisten-Dosen-Metode-Topsis/master/ss/1.png)
+    ![](https://raw.githubusercontent.com/reziqvins/Sistem-Pendukung-Keputusan-Asisten-Dosen-Metode-Topsis/master/ss/2.png)
+    ![](https://raw.githubusercontent.com/reziqvins/Sistem-Pendukung-Keputusan-Asisten-Dosen-Metode-Topsis/master/ss/3.png)
+    ![](https://raw.githubusercontent.com/reziqvins/Sistem-Pendukung-Keputusan-Asisten-Dosen-Metode-Topsis/master/ss/4.png)
+    ![](https://raw.githubusercontent.com/reziqvins/Sistem-Pendukung-Keputusan-Asisten-Dosen-Metode-Topsis/master/ss/.png)
     
 ## License
 > This program is Free Software: 
