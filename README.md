@@ -15,14 +15,16 @@
 
 - ### Web
     
-    ![](https://raw.githubusercontent.com/reziqvins/Sistem-Pendukung-Keputusan-Asisten-Dosen-Metode-Topsis/master/ss/1.png)
-    ![](https://raw.githubusercontent.com/reziqvins/Sistem-Pendukung-Keputusan-Asisten-Dosen-Metode-Topsis/master/ss/2.png)
-    ![](https://raw.githubusercontent.com/reziqvins/Sistem-Pendukung-Keputusan-Asisten-Dosen-Metode-Topsis/master/ss/3.png)
-    ![](https://raw.githubusercontent.com/reziqvins/Sistem-Pendukung-Keputusan-Asisten-Dosen-Metode-Topsis/master/ss/4.png)
-    ![](https://raw.githubusercontent.com/reziqvins/Sistem-Pendukung-Keputusan-Asisten-Dosen-Metode-Topsis/master/ss/5.png)
+    ![](https://github.com/reziqvins/Sistem-Pendukung-Keputusan-Pemilihan-Asisten-Dosen-Metode-Topsis/blob/main/ss/1.png)
+    ![](https://github.com/reziqvins/Sistem-Pendukung-Keputusan-Pemilihan-Asisten-Dosen-Metode-Topsis/blob/main/ss/2.png)
+    ![](https://github.com/reziqvins/Sistem-Pendukung-Keputusan-Pemilihan-Asisten-Dosen-Metode-Topsis/blob/main/ss/3.png)
+    ![](https://github.com/reziqvins/Sistem-Pendukung-Keputusan-Pemilihan-Asisten-Dosen-Metode-Topsis/blob/main/ss/4.png)
+    ![](https://github.com/reziqvins/Sistem-Pendukung-Keputusan-Pemilihan-Asisten-Dosen-Metode-Topsis/blob/main/ss/5.png)
     
-    ### Link Web
+   - ### Link Web
     spkasistendosen.rf.gd
+    username    = admin
+    pasword     = admin
     
 ## License
 > This program is Free Software: 
