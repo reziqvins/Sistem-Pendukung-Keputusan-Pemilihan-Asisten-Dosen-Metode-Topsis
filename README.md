@@ -29,7 +29,8 @@
     
     
     pasword     = admin
-    
+    -### Link Exel
+    https://docs.google.com/spreadsheets/d/14O_KIkx6G2vTBwwVu6zOvRBkV_LrcWEA/edit?usp=sharing&ouid=101728025903172972165&rtpof=true&sd=true
 ## License
 > This program is Free Software: 
 You can use, study, share and improve it at your will. Specifically you can redistribute and/or modify it under the terms of the [GNU General Public License](https://www.gnu.org/licenses/gpl.html) 
